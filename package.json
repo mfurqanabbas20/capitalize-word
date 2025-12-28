@@ -1,6 +1,6 @@
 {
   "name": "@mfurqanabbas20/capitalize-word",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Package that returns capitalize word",
   "main": "index.js",
   "types": "index.d.ts",
